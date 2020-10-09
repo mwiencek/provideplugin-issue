@@ -1,0 +1,3 @@
+yarn
+./node_modules/.bin/webpack
+node dist/main.js
